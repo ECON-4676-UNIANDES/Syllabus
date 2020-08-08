@@ -33,7 +33,7 @@ El objetivo de este curso es introducir a los alumnos a un conjunto de herramien
 
 ## 4.	Organización del curso
 
-Temario (sujeto a cambios)
+**Temario** *(sujeto a cambios)*
 
 1.	Introduction to ML: prediction and inference. Supervised and unsupervised learning. MCO revision. Goodness of fit. Introduction to R, Jupyter Lab, Github, and AWS
 
@@ -76,15 +76,16 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 ## 7.	Criterios de evaluación (Porcentajes de cada evaluación)
 
 
-	Puntaje Individual	Puntaje Total
-Participación		10%
-Talleres	10%	40%
-Propuesta de Trabajo		25%
-	Primer Entrega	5%	
-	Segunda Entrega	5%	
-	Tercer Entrega	15%	
-Examen Final		25%
-Total		100%
+| Clase magistral              |    Puntaje Individual	| Puntaje Total  |                                   
+|------------------------------|------------------------|----------------|
+Participación				   |						|         10%    |
+Talleres	                   |           10%	        |  40%           |
+Propuesta de Trabajo		   |                        |  25%           |
+Primer Entrega	               |           5%	        |                | 
+Segunda Entrega    			   |           5%	        |                |
+Tercer Entrega	    		   |          15%	        |                |
+Examen Final				   |     	                |    25%         |
+**Total**                      |                      	|	100%         |
 
 - **Participación**. Si bien participación es la actividad con menos peso en la composición final, será el “tiebreaker" por el cual decidiré la nota final. Participación no incluye solamente la asistencia a clases, sino también actividades fuera de clase. Una vez registrados en el curso los estudiantes recibirán invitación al canal de Slack, al aula virtual de AWS y a github. La participación será juzgada en función a la participación en las discusiones, en los trabajos grupales, de las interacciones en el canal de Slack, el aprovechamiento de AWS y se espera que estudiantes encuentren al menos un error de tipeo o cualquier otro tipo y los arreglen a través de pull requests en github.
 
@@ -100,7 +101,7 @@ Reclamos. Los estudiantes podrán presentar reclamos sobre sus evaluaciones por 
 
 Notas finales. Las calificaciones definitivas de las materias serán numéricas de uno punto cinco (1.50) a cinco punto cero (5.00), en unidades, décimas y centésimas. 
 
-## 9.	Bibliografía (sujeta a cambios)
+## 9.	Bibliografía *(sujeta a cambios)*
 
 - Anselin, Luc. 2003. “An Introduction to Spatial Regression Analysis in R.” Available at: Https://geodacenter.asu.edu/drupal_files/spdepintro.pdf.
 - Anselin, Luc, and Anil K Bera. 1998. “Spatial Dependence in Linear Regression Models with an Introduction to Spatial Econometrics.” Statistics Textbooks and Monographs 155. MARCEL DEKKER AG: - 237–90.
