@@ -14,7 +14,7 @@
 | Clase magistral              |                                         |
 |------------------------------|-----------------------------------------|
 | Profesor:                    | Jacob Muñoz Castro                      |
-| Correo:                      | ij.munoz14@uniandes.edu.co              |
+| Correo:                      | j.munoz14@uniandes.edu.co              |
 | Sitio web:                   | https://github.com/ECON-4676-UNIANDES   |
 | Horario y lugar de atención: | Via Slack y a concretar con el profesor |
 
