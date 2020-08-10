@@ -1,4 +1,4 @@
-# Syllabus of Big Data and Machine Learning for Applied Economics at the ECON 4676  
+# Syllabus of Big Data and Machine Learning for Applied Economics (ECON 4676)
 ## Department of Economics University of Los Andes, Colombia
 
 ## 1.	Horario atención a estudiantes, correos electrónicos y nombres de los profesores complementarios
@@ -11,11 +11,10 @@
 | Horario y lugar de atención: | Via Slack y a concretar con el profesor |
 
 
-| Clase magistral              |                                         |
+| Profesor Asistente           |                                         |
 |------------------------------|-----------------------------------------|
 | Profesor:                    | Jacob Muñoz Castro                      |
 | Correo:                      | ij.munoz14@uniandes.edu.co              |
-| Sitio web:                   | https://github.com/ECON-4676-UNIANDES   |
 | Horario y lugar de atención: | Via Slack y a concretar con el profesor |
 
 
