@@ -83,16 +83,16 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 ## 8.	Criterios de evaluación (Porcentajes de cada evaluación)
 
 
-| Clase magistral              |    Puntaje Individual	| Puntaje Total  |                                   
+|                              |    Puntaje Individual	| Puntaje Total  |                                   
 |------------------------------|------------------------|----------------|
-Participación				   |						|         10%    |
-Talleres	                   |           10%	        |  40%           |
-Propuesta de Trabajo		   |                        |  25%           |
-Primer Entrega	               |           5%	        |                | 
-Segunda Entrega    			   |           5%	        |                |
-Tercer Entrega	    		   |          15%	        |                |
-Examen Final				   |     	                |    25%         |
-**Total**                      |                      	|	100%         |
+| Participación				   |						|         10%    |
+| Talleres	                   |           10%	        |  40%           |
+| Propuesta de Trabajo		   |                        |  25%           |
+| Primer Entrega	           |           5%	        |                | 
+| Segunda Entrega    		   |           5%	        |                |
+| Tercer Entrega	           |          15%	        |                |
+| Examen Final				   |     	                |    25%         |
+| **Total**                    |                      	|	100%         |
 
 - **Participación**. Si bien participación es la actividad con menos peso en la composición final, será el “tiebreaker" por el cual decidiré la nota final. Participación no incluye solamente la asistencia a clases, sino también actividades fuera de clase. Una vez registrados en el curso los estudiantes recibirán invitación al canal de Slack, al aula virtual de AWS y a github. La participación será juzgada en función a la participación en las discusiones, en los trabajos grupales, de las interacciones en el canal de Slack, el aprovechamiento de AWS y se espera que estudiantes encuentren al menos un error de tipeo o cualquier otro tipo y los arreglen a través de pull requests en github.
 
@@ -117,8 +117,10 @@ Notas finales. Las calificaciones definitivas de las materias serán numéricas 
 - Bivand, Roger S, Edzer J Pebesma, and Virgilio Gomez-Rubio. 2008. Applied Spatial Data Analysis with R. Springer. Springer.
 - Boehmke, B., & Greenwell, B. M. (2019). Hands-on machine learning with R. CRC Press.
 - Cárdenas Rubio, J. A., Chaux Guzmán, F. J., & Otero, J. (2019). Una base de datos de precios y características de vivienda en Colombia con información de Internet. Revista de Economía del - Rosario, 22(1), 25.
+- Casella, G., \& Berger, R. L. (2002). Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
 - Davidson, R., & MacKinnon, J. G. (2004). Econometric theory and methods (Vol. 5). New York: Oxford University Press.
 - Einav, Liran, and Jonathan D. Levin. The data revolution and economic analysis. No. w19035. National Bureau of Economic Research, 2013. 
+- Efron, B., & Hastie, T. (2016). Computer age statistical inference (Vol. 5). Cambridge University Press.
 - Farrell, D., Greig, F., and Deadman, E. (2020). Estimating family income from administrative banking data: A machine learning approach. AEA Papers and Proceedings, 110:36-41.
 - Gentzkow, Matthew, and Jesse M. Shapiro. What drives media slant? Evidence from US daily newspapers. Econometrica 78.1 (2010): 35-71. 
 - Gentzkow, M., and J. Shapiro. Nuts and Bolts: Computing with Large Data. NBER Lecture and Videos. 
@@ -126,14 +128,17 @@ Notas finales. Las calificaciones definitivas de las materias serán numéricas 
 - Glaeser, E. L., Kominers, S. D., Luca, M., and Naik, N. (2018). Big data and big cities: The promises and limitations of improved measures of urban life. Economic Inquiry, 56(1):114-137.
 - Hastie, T., Tibshirani, R., and Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
 - Hastie, T., Tibshirani, R., and Wainwright, M. (2015). Statistical learning with sparsity: the lasso and generalizations. CRC press.
+- Hayashi, F. (2000). Econometrics. 2000. Princeton University Press. Section, 1, 60-69.
 - Kuhn, M. (2012). The caret package. R Foundation for Statistical Computing, Vienna, Austria. URL https://cran. r-project. org/package= caret.
 - James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013). An introduction to statistical learning, volume 112. Springer. 
 - Mullainathan, S. and Spiess, J., 2017. Machine learning: an applied econometric approach. Journal of Economic Perspectives, 31(2), pp.87-106. 
+- Murphy, K. P. (2012). Machine learning: a probabilistic perspective. MIT press.
 - Sosa Escudero, W. (2019). Big Data. Siglo Veintiuno Editores.
 - Temperature and Temperament: Evidence from a Billion Tweets. Patrick Baylis. Job Market Paper. 2015.
 - Varian, H.R., 2010. Computer Mediated Transactions. The American Economic Review, 100(2), pp.1-10. 
 - Varian, Hal R. Big Data: New Tricks for Econometrics. Journal of Economic Perspectives 28, no. 2 (2014): 3-28. 
 - What will the Impact of Machine Learning be on Economics? Forbes Magazine http://www.forbes.com/sites/quora/2016/01/27/what-will-the-impact-of-machine-learning-be-on-economic## 14906ea67ad5l.
+- Wooldridge, J. M. (2010). Econometric analysis of cross section and panel data. MIT press.
 
 ## 11.	Fechas importantes: 
 
