@@ -4,7 +4,7 @@
 
 ## 1. Horario de Clases y Zoom Link
 
-Las clases serán completamente virutales los martes y jueves de 11:30 a 12:45. Se puede acceder a la clase mediante el siguiente link de Zoom: https://uniandes-edu-co.zoom.us/j/92913017634
+Las clases serán completamente virtuales los martes y jueves de 11:30 a 12:45. Se puede acceder a la clase mediante el siguiente link de Zoom: https://uniandes-edu-co.zoom.us/j/92913017634
 
 
 
@@ -44,17 +44,19 @@ El objetivo de este curso es introducir a los alumnos a un conjunto de herramien
 
 1.	Introduction to ML: prediction and inference. Supervised and unsupervised learning. MCO revision. Goodness of fit. Introduction to R, Jupyter Lab, Github, and AWS
 
-2.	New Economic Observation. Search and computer-mediated behavior. Text Data: news media and social media. Large N Problems: compute and processing. Web scrapers and APIs.
+2.	Observing from above: Introduction to spatial econometrics. Modeling spatial dependence. Processing big spatial/satellite data, raster data.
 
-3.	Observing from above: Introduction to spatial econometrics. Modeling spatial dependence. Processing big spatial/satellite data, raster data.
+3.  Model selection. Subset Selection. Shrinkage methods: Ridge, Lasso. Lasso for Causal Inference. Dimension Reduction Methods.  
 
-4.	Intro to non parametric econometrics. Kernels, densities, and non parametric regressions. The curse of dimensionality.
+4.	New Economic Observation. Search and computer-mediated behavior. Text Data: news media and social media. Large N Problems: compute and processing. Web scrapers and APIs.
 
 5.	Classification: Bayes Risk, Logit Models, ROC analysis.
 
-6.	Non lineal methods: Clusters, PCA, K-means, Tress, Boosting and Random Forests, Support vector machines.
+6.	Intro to non parametric econometrics. Kernels, densities, and non parametric regressions. The curse of dimensionality.
 
-7. Bonus Track: Machine Learning for Causal Inference and Deep Learning. 
+7.	Non lineal methods: Clusters, PCA, K-means, Tress, Boosting and Random Forests, Support vector machines.
+
+8. Bonus Track: Machine Learning for Causal Inference and Deep Learning. 
 
 
 ## 6.	Metodología
@@ -85,9 +87,9 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 
 |                              |    Puntaje Individual	| Puntaje Total  |                                   
 |------------------------------|------------------------|----------------|
-| Participación				   |						|         10%    |
-| Talleres	                   |           10%	        |  40%           |
-| Propuesta de Trabajo		   |                        |  25%           |
+| Participación				   |						|    10%         |
+| Talleres	                   |           10%	        |    40%         |
+| Propuesta de Trabajo		   |                        |    25%         |
 | Primer Entrega	           |           5%	        |                | 
 | Segunda Entrega    		   |           5%	        |                |
 | Tercer Entrega	           |          15%	        |                |
@@ -96,7 +98,7 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 
 - **Participación**. Si bien participación es la actividad con menos peso en la composición final, será el “tiebreaker" por el cual decidiré la nota final. Participación no incluye solamente la asistencia a clases, sino también actividades fuera de clase. Una vez registrados en el curso los estudiantes recibirán invitación al canal de Slack, al aula virtual de AWS y a github. La participación será juzgada en función a la participación en las discusiones, en los trabajos grupales, de las interacciones en el canal de Slack, el aprovechamiento de AWS y se espera que estudiantes encuentren al menos un error de tipeo o cualquier otro tipo y los arreglen a través de pull requests en github.
 
-- **Talleres**. Los estudiantes realizarán trabajos prácticos grupales para evaluar su aprendizaje. Los grupos no podrán superar los 3 miembros. Habrá 4 talleres durante el semestre. Se dedicarán al menos 4 clases para la discusión y presentación de los talleres. Los talleres serán submitidos vía github y parte de nota de la participación saldrá de la evaluación de la historia del repositorio donde se verá la contribución de cada estudiante.
+- **Talleres**. Los estudiantes realizarán trabajos prácticos grupales para evaluar su aprendizaje. Los grupos no podrán superar los 3 miembros. Habrá 4 talleres durante el semestre. Se dedicarán al menos 4 clases para la discusión y presentación de los talleres. Los talleres serán submitidos vía github y parte de nota de la participación saldrá de la evaluación de la historia del repositorio donde se evaluará la contribución de cada estudiante.
 
 - **Propuesta de trabajo**. La actividad estará dividida en 3 entregas. En la primera entrega los grupos se reunirán conmigo y presentarán brevemente (máximo 5 slides) la idea y como planean llevarla a cabo. En una segunda entrega donde se expondrán los datos propuestos. La entrega final será al concluir el curso que consolida todo el trabajo. Se otorgarán bonos a los estudiantes que además de presentar el plan de trabajo o propuesta, entreguen resultados concretos.
 
@@ -117,14 +119,14 @@ Notas finales. Las calificaciones definitivas de las materias serán numéricas 
 - Bivand, Roger S, Edzer J Pebesma, and Virgilio Gomez-Rubio. 2008. Applied Spatial Data Analysis with R. Springer. Springer.
 - Boehmke, B., & Greenwell, B. M. (2019). Hands-on machine learning with R. CRC Press.
 - Cárdenas Rubio, J. A., Chaux Guzmán, F. J., & Otero, J. (2019). Una base de datos de precios y características de vivienda en Colombia con información de Internet. Revista de Economía del - Rosario, 22(1), 25.
-- Casella, G., \& Berger, R. L. (2002). Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
+- Casella, G., & Berger, R. L. (2002). Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
 - Davidson, R., & MacKinnon, J. G. (2004). Econometric theory and methods (Vol. 5). New York: Oxford University Press.
 - Einav, Liran, and Jonathan D. Levin. The data revolution and economic analysis. No. w19035. National Bureau of Economic Research, 2013. 
 - Efron, B., & Hastie, T. (2016). Computer age statistical inference (Vol. 5). Cambridge University Press.
 - Farrell, D., Greig, F., and Deadman, E. (2020). Estimating family income from administrative banking data: A machine learning approach. AEA Papers and Proceedings, 110:36-41.
 - Gentzkow, Matthew, and Jesse M. Shapiro. What drives media slant? Evidence from US daily newspapers. Econometrica 78.1 (2010): 35-71. 
 - Gentzkow, M., and J. Shapiro. Nuts and Bolts: Computing with Large Data. NBER Lecture and Videos. 
-- Glaeser, E.L., Hillis, A., Kominers, S.D. and Luca, M., 2016. Predictive Cities Crowdsourc- ing City Government: Using Tournaments to Improve Inspection Accuracy. The American Economic - Review, 106(5), pp.114-118. 
+- Glaeser, E.L., Hillis, A., Kominers, S.D. and Luca, M., 2016. Predictive Cities Crowdsourcing City Government: Using Tournaments to Improve Inspection Accuracy. The American Economic - Review, 106(5), pp.114-118. 
 - Glaeser, E. L., Kominers, S. D., Luca, M., and Naik, N. (2018). Big data and big cities: The promises and limitations of improved measures of urban life. Economic Inquiry, 56(1):114-137.
 - Hastie, T., Tibshirani, R., and Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
 - Hastie, T., Tibshirani, R., and Wainwright, M. (2015). Statistical learning with sparsity: the lasso and generalizations. CRC press.
