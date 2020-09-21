@@ -100,7 +100,10 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 
 - **Talleres**. Los estudiantes realizarán trabajos prácticos grupales para evaluar su aprendizaje. Los grupos no podrán superar los 3 miembros. Habrá 4 talleres durante el semestre. Se dedicarán al menos 4 clases para la discusión y presentación de los talleres. Los talleres serán submitidos vía github y parte de nota de la participación saldrá de la evaluación de la historia del repositorio donde se evaluará la contribución de cada estudiante.
 
-- **Propuesta de trabajo**. La actividad estará dividida en 3 entregas. En la primera entrega los grupos se reunirán conmigo y presentarán brevemente (máximo 5 slides) la idea y como planean llevarla a cabo. En una segunda entrega donde se expondrán los datos propuestos. La entrega final será al concluir el curso que consolida todo el trabajo. Se otorgarán bonos a los estudiantes que además de presentar el plan de trabajo o propuesta, entreguen resultados concretos.
+- **Propuesta de trabajo**. La actividad estará dividida en 3 entregas: 
+	- Primera entrega antes del 25 de septiembre: los grupos se reunirán conmigo y presentarán brevemente (máximo 5 slides) la idea y como planean llevarla a cabo. 
+    - Segunda entrega antes del 23 de octubre: donde se expondrán la idea con los datos propuestos.
+    - Entrega final que consolida todo el trabajo antes del 7 de diciembre. Bonus a los estudiantes que además de presentar el plan de trabajo o propuesta, entreguen resultados concretos.
 
 - **Examen final**. Este examen pretende evaluar los conceptos y habilidades aprendidas en el curso. Va a ser un examen domiciliario, de tiempo fijo, entre 48-72 horas.
 
