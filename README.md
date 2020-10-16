@@ -102,7 +102,7 @@ El producto final de este curso es un plan de trabajo con una propuesta de cómo
 
 - **Propuesta de trabajo**. La actividad estará dividida en 3 entregas: 
 	- Primera entrega antes del 25 de septiembre: los grupos se reunirán conmigo y presentarán brevemente (máximo 5 slides) la idea y como planean llevarla a cabo. 
-    - Segunda entrega antes del 23 de octubre: donde se expondrán la idea con los datos propuestos.
+    - Segunda entrega antes del 30 de octubre: donde se expondrán la idea con los datos propuestos.
     - Entrega final que consolida todo el trabajo antes del 7 de diciembre. Bonus a los estudiantes que además de presentar el plan de trabajo o propuesta, entreguen resultados concretos.
 
 - **Examen final**. Este examen pretende evaluar los conceptos y habilidades aprendidas en el curso. Va a ser un examen domiciliario, de tiempo fijo, entre 48-72 horas.
