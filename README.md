@@ -42,21 +42,23 @@ El objetivo de este curso es introducir a los alumnos a un conjunto de herramien
 
 **Temario** *(sujeto a cambios)*
 
-1.	Introduction to ML: prediction and inference. Supervised and unsupervised learning. MCO revision. Goodness of fit. Introduction to R, Jupyter Lab, Github, and AWS
+1.	Introduction to ML: Classic Paradigm. Statistical Decision Theory. Reducible and Irreducible Error. OLS. Prediction in/out of sample. Mean Square Error and Prediction Error. Tools: R, Github, AWS, and Web Scraping
 
-2.	Observing from above: Introduction to spatial econometrics. Modeling spatial dependence. Processing big spatial/satellite data, raster data.
+2. Estimation Methods. OLS Numerical Properties. OLS Computation for "big n". Maximum Likelihood. Bayesian Estimation. Empirical Bayes, estimation and prediction. Introduction to shrinkage.
 
-3.  Model selection. Subset Selection. Shrinkage methods: Ridge, Lasso. Lasso for Causal Inference. Dimension Reduction Methods.  
+3.	Observing from above: Introduction to spatial econometrics. Modeling spatial dependence. Processing big spatial/satellite data, raster data.
 
-4.	New Economic Observation. Search and computer-mediated behavior. Text Data: news media and social media. Large N Problems: compute and processing. Web scrapers and APIs.
+4.  Model selection. Subset Selection. Shrinkage methods: Ridge, Lasso. Lasso for Causal Inference. Dimension Reduction Methods.  
 
 5.	Classification: Bayes Risk, Logit Models, ROC analysis.
 
-6.	Intro to non parametric econometrics. Kernels, densities, and non parametric regressions. The curse of dimensionality.
+6.	New Economic Observation. Search and computer-mediated behavior. Text Data: news media and social media. Web scrapers and APIs.
 
-7.	Non lineal methods: Clusters, PCA, K-means, Tress, Boosting and Random Forests, Support vector machines.
+7.	Intro to non parametric econometrics. Kernels, densities, and non parametric regressions. The curse of dimensionality.
 
-8. Bonus Track: Machine Learning for Causal Inference and Deep Learning. 
+8.	Non lineal methods: Clusters, PCA, K-means, Tress, Boosting and Random Forests, Support vector machines.
+
+9. Bonus Track: Machine Learning for Causal Inference and Deep Learning. 
 
 
 ## 6.	Metodología
